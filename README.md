@@ -24,3 +24,4 @@ Redes Sociais:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="52px"></a>
   
 </nav>
+![Snake animation](https://github.com/paulovct/paulovct/blob/output/github-contribution-grid-snake.svg)
