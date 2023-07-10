@@ -10,10 +10,14 @@
 Conhecimentos:
 
 <div display:block:inline;>
-  <img height="53px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img height="53px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img height="53px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img height="53px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img height="53px" src="https://alunos.b7web.com.br/media/courses/logo/reactjs.jpg">
+  <img height="53px" src="https://alunos.b7web.com.br/media/courses/logo/typescript.jpg">
+  <img height="53px" src="https://alunos.b7web.com.br/media/courses/logo/nodejs.jpg">
+  <img height="53px" src="https://alunos.b7web.com.br/media/courses/logo/adonisjs.jpg">
+  <img height="53px" src="https://alunos.b7web.com.br/media/courses/logo/php.jpg">
+  <img height="53px" src="https://alunos.b7web.com.br/media/courses/logo/laravel.jpg">
+  <img height="53px" src="https://alunos.b7web.com.br/media/courses/logo/git.jpg">
+  <img height="53px" src="">
  
 </div>
 
