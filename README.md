@@ -17,7 +17,6 @@ Conhecimentos:
   <img height="53px" src="https://alunos.b7web.com.br/media/courses/logo/php.jpg">
   <img height="53px" src="https://alunos.b7web.com.br/media/courses/logo/laravel.jpg">
   <img height="53px" src="https://alunos.b7web.com.br/media/courses/logo/git.jpg">
-  <img height="53px" src="">
  
 </div>
 
